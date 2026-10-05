@@ -1,3 +1,6 @@
 #Filozofia DevOps
-DevOps wdraza nowe rozwiazanie na problemy pomiedzy "produkcja", a "develeporami" Pojawil sie jako odpowiedz na pytanie pod tytulem "Jak tworzyc iwdrazac oprogramowanie jeszcze szybciej i jeszcze bardziej niezawodnie, niz dotychczas?" W kulturze DevOps kazdy czlonek zespolu bierze udzial w calym cyklu zycia produktu i ma glos w podejmowaniu decyzji, a ponadto, jest odpowiedzialny za koncowy wynik.
+
+DevOps wdraża nowe rozwiązanie na problemy pomiędzy "produkcją", a developerami. Pojawił się jako odpowiedź na pytanie pod tytułem "Jak tworzyć i wdrażać oprogramowanie jeszcze szybciej i jeszcze bardziej niezawodnie, niż dotychczas?" 
+
+W kulturze DevOps, każdy członek zespołu bierze udział w całym cyklu życia produktu i ma głos w podejmowaniu decyzji, a ponadto, jest odpowiedzialny za końcowy wynik.
 
