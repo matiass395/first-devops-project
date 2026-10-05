@@ -17,7 +17,7 @@ Częste wdrożenia oznaczają mniejsze porcje zmian, a więc mniejsze ryzyko i �
 **Cel:**
 Mniej niż 1 godzina.
 **Dlaczego jest ważna:** 
-Krotki czas od commita do produkcji pokazuje, ze proces jest sprawny i zautomatyzowany. Długi czas wskazuje wąskie gardła, takie jak ręczne testy czy długie zatwierdzenia.
+Krótki czas od commita do produkcji pokazuje, ze proces jest sprawny i zautomatyzowany. Długi czas wskazuje wąskie gardła, takie jak ręczne testy czy długie zatwierdzenia.
 
 ## 3. MTTR (Mean Time To Recovery)
 **Co mierzy:** 
